@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 # 💫 About Me
 Hi guys, I'm **Azfa Radhiyya Hakim** (19 y.o) a developer from **Bandung, Indonesia**.<br>
-🌱 Software Engineer and Cyber Security enthusiast<br>
-🔭 Currently working on Data <br>
-⚡ For more information -> azfaradhi.vercel.app
+- 🌱 Software Engineer and Cyber Security enthusiast<br>
+- 🔭 Currently working on Data <br>
+- ⚡ For more information -> azfaradhi.vercel.app
 
 ## 💻Languages
 <div align="left">
